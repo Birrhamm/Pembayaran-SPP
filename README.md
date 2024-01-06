@@ -20,3 +20,6 @@
 
 ## Tombol Untuk Logout
 ![Screenshot (254)](https://github.com/Birrhamm/Pembayaran-SPP/assets/115520530/82b9b5cf-fcfa-4023-8fc2-75b97c09f2f6)
+
+## Usecase 
+![UseCaseDiagram1](https://github.com/Birrhamm/Pembayaran-SPP/assets/115520530/75f9d091-4638-4057-b0a3-a5d1bfe2e1ee)
